@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|d:\\2 eme genie log\\dotnetworkspace\\tp1\\tp1\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|solutionrelative:tp1\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|d:\\2 eme genie log\\dotnetworkspace\\tp1\\tp1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|solutionrelative:tp1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|d:\\2 eme genie log\\dotnetworkspace\\tp1\\tp1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|solutionrelative:tp1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|d:\\2 eme genie log\\dotnetworkspace\\tp1\\tp1\\models\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|solutionrelative:tp1\\models\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|d:\\2 eme genie log\\dotnetworkspace\\tp1\\tp1\\models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|solutionrelative:tp1\\models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|d:\\2 eme genie log\\dotnetworkspace\\tp1\\tp1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|solutionrelative:tp1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|d:\\2 eme genie log\\dotnetworkspace\\tp1\\tp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|solutionrelative:tp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|d:\\2 eme genie log\\dotnetworkspace\\tp1\\tp1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|solutionrelative:tp1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|d:\\2 eme genie log\\dotnetworkspace\\tp1\\tp1\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|solutionrelative:tp1\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|d:\\2 eme genie log\\dotnetworkspace\\tp1\\tp1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F7C5003-F806-4484-A10D-CFB779CEA367}|tp1\\tp1.csproj|solutionrelative:tp1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "tp1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "tp1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:18:50.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Models\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "tp1\\Models\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Models\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "tp1\\Models\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:17:08.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Models\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "tp1\\Models\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Models\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "tp1\\Models\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:16:38.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "tp1\\Models\\Employee.cs",
+              "ToolTip": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Models\\Employee.cs",
+              "RelativeToolTip": "tp1\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:58:52.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "tp1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "tp1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T08:52:57.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "tp1\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "tp1\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:55:59.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "tp1\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "tp1\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:53:00.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "tp1\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "tp1\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwEgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T17:52:54.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "tp1\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "tp1\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:56:44.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "tp1\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\2 eme genie log\\dotNetWorkSpace\\tp1\\tp1\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "tp1\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:57:22.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
